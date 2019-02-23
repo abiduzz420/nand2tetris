@@ -8,7 +8,7 @@
 - [x] ex3 : built ram, program counter, register
 - [x] ex4 : wrote asm program for blackening the screen on key press and multiplication code
 - [ ] ex5
-- [ ] ex6
+- [ ] ex6  
 (course part ii begins)
 - [ ] ex7 
 - [ ] ex8
